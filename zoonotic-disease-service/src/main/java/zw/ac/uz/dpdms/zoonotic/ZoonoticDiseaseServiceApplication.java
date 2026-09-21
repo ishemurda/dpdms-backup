@@ -1,0 +1,1 @@
+package zw.ac.uz.dpdms.zoonotic; import org.springframework.boot.*; import org.springframework.boot.autoconfigure.*; @SpringBootApplication public class ZoonoticDiseaseServiceApplication { public static void main(String[] a){SpringApplication.run(ZoonoticDiseaseServiceApplication.class,a);} }

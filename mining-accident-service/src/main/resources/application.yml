@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: mining-accident-service
+server:
+  port: 8085
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics

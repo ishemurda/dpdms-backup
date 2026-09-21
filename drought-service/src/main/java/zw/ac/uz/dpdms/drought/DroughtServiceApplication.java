@@ -1,0 +1,1 @@
+package zw.ac.uz.dpdms.drought; import org.springframework.boot.*; import org.springframework.boot.autoconfigure.*; @SpringBootApplication public class DroughtServiceApplication { public static void main(String[] a){SpringApplication.run(DroughtServiceApplication.class,a);} }

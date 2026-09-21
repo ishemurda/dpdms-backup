@@ -1,0 +1,1 @@
+package zw.ac.uz.dpdms.mining; import org.springframework.boot.*; import org.springframework.boot.autoconfigure.*; @SpringBootApplication public class MiningAccidentServiceApplication { public static void main(String[] a){SpringApplication.run(MiningAccidentServiceApplication.class,a);} }

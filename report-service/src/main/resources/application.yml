@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: report-service
+server:
+  port: 8088
+hazard:
+  urls:
+    flood: http://localhost:8081
+    drought: http://localhost:8082
+    fire: http://localhost:8083
+    zoonotic: http://localhost:8084
+    mining: http://localhost:8085
